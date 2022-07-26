@@ -1,6 +1,6 @@
 
 //=================Puerto====================
-process.env.PORT= process.env.PORT || 3008
+process.env.PORT= process.env.PORT || 3000
 
 //--------Definir entornos------------
 process.env.NODE_ENV = process.env.NODE_ENV || 'dev'
